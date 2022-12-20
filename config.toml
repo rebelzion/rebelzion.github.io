@@ -73,7 +73,7 @@ features = ["Responsive", "One Column", "Blog"]
   # home page profile
   avatar = 'GRAVATAR_EMAIL'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
   name = 'Rebelzion'
-  bio = 'Machine Learning Engineer'
+  bio = ''
 
   # misc
   disableHLJS = true              # disable requesting highlight.js
